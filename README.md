@@ -1,1 +1,4 @@
-# ElectricPower2
+### The electric power
+Ein Projekt mit Hilfe von github publizieren.
+
+von -Yves Leutwyler-
